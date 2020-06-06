@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "It's High Time We Ended Racism"
+author: "Zhengyu Ren"
 date: 2020-06-02 21:29:14 +0700
 ---
 
