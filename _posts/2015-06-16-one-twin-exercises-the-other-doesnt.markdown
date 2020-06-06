@@ -4,7 +4,7 @@ title: "双胞胎一动一静"
 date: 2015-06-16 12:00:00 +0700
 ---
 
-_This article is the Chinese translation of One Twin Exercises, the Other Doesn’t, Originally published at [https://well.blogs.nytimes.com/2015/03/04/one-twin-exercises-the-other-doesnt/]_
+_This article is the Chinese translation of [One Twin Exercises, the Other Doesn’t][original-post]_
 
 一对芬兰的同卵双胞胎少年时运动习惯相同，其它体力活动也类似。成年后锻炼习惯异化，身体与大脑不久便显现出了差别。最新研究表明，即使是遗传基因与成长环境相同的人，体育锻炼也决定着他们的健康状况。
 
@@ -39,3 +39,5 @@ _This article is the Chinese translation of One Twin Exercises, the Other Doesn�
 这个结论还微妙地指出，你的锻炼习惯并不是由遗传基因与成长环境决定的。就以这些双胞胎为例，无论他们的遗传基因与成长环境如何将他们最终造就成了享受运动的人还是喜欢赖在沙发上的 人，总有一方能够克服历史原因，做出不同的锻炼决定（无论是好是坏）。
 
 Kujala 博士说，我们平常人也应该这样，即使你认为你的 DNA 和曾经的你都不喜欢你去锻炼，还是对自己说句“去运动运动吧！”我们的研究结果很清楚：锻炼可以快速地、显著地改善你的身体健康与大脑健康。
+
+[original-post]: https://well.blogs.nytimes.com/2015/03/04/one-twin-exercises-the-other-doesnt/
