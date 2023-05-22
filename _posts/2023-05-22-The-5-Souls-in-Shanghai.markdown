@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 5 souls in Shanghai"
+title: "The 5 Souls in Shanghai"
 author: "Zhengyu Ren"
 date: 2023-05-22 11:30:00 +0800
 ---
